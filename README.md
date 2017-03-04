@@ -12,6 +12,9 @@ Run a node js File
 node MvnChangeWatch.js
 
 
+Commit with author name:
+git commit -m  "removed node modules" --author "javatechy"
+
 Remove a directory from remote
 
 git rm --cached -r node_modules
