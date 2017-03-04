@@ -1,5 +1,5 @@
 {
-  "operationCode": "BPAY",
+  "operationCode": "BPAY  ",
   "oAuth": {
     "accessToken": "013b0c11-b8cb-455d-b05b-8e2c591f3d07",
     "interfaceId": "ZotoUsers"
