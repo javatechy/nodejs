@@ -1,40 +1,20 @@
 {
   "operationCode": "BPAY  ",
-  "oAuth": {
-    "accessToken": "013b0c11-b8cb-455d-b05b-8e2c591f3d07",
-    "interfaceId": "ZotoUsers"
-  },
   "interfaceData": {
     "appsCheckSum": "d65357da07a7b7ded433b388c5432b7b",
     "data": {
       "os": "android"
     },
     "identification": "862628032840469",
-    "psIdList": [
-      "deepak.kumar.iet@gmail.com",
-      "deepak.kumar@zoto.com.ng"
-    ],
+    "psIdList": [],
     "type": "MOB",
     "version": "2.3.9"
   },
-  "user": {
-    "deviceID": "APA91bH1gj1T2ctnUN2Pw7jr4NBnVTa4rskIl6t51nq0BLoG2UP3m_ka_bXB3vO1vgGlRQ5CZObWcnzLTS8Z01QGlUReAex0aamV1t7GimyY-cR4ahG13fKBG4gS_7_pkkbTSXzDIA4f",
-    "pin": "1414"
-  },
-  "payment": {
-    "pan": "4444333322221111",
-    "cv2": "350",
-    "expiryYear": "17",
-    "expiryMonth": "02",
-    "isCardDetailsSaved": true,
-    "zotoPay": false,
-    "tppType": "VISA"
-  },
   "service": {
     "accountId": "9393939393",
-    "vendor":"AIRTEL",
+    "vendor": "AIRTEL",
     "transactionAmount": 500,
-    "type": "RECHG_DATA",
+    "type": "RECHG",
     "billerId": 2000
   }
 }

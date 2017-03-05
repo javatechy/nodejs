@@ -5,7 +5,7 @@ var host = "127.0.0.1";
 var port = 8081;
 var server = http.createServer(function(request, response) {
 	log("Request Recieved" + request.url);
-	fs.readFile("Html" + "/hello.html", function(error, data) {
+	fs.readFile("html" + request.url, function(error, data) {
 		if (error) {
 			response.writeHead(404, {
 				"Content-type" : "text/plain"
