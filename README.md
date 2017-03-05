@@ -17,7 +17,6 @@ Create a shorcut on desktop to monitor:
 3. Save the file as .bat extension
 4. Run the bat file  to monitor
 
-
 Run a node js File
 node MvnChangeWatch.js
 
